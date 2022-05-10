@@ -1,0 +1,16 @@
+## No considerar archivo credencial.txt
+credenciales.txt
+## No considerar carpeta prueba_local
+prueba_local\
+
+## No deben considerarse ningun TXT
+*.txt
+
+## Ni imagenes
+*.jpg
+*.png
+*.gif
+
+## Ni binarios
+*.exe
+*.dll
